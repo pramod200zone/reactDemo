@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/me/page": "app/me/page.js",
+  "/my-stream/page": "app/my-stream/page.js",
+  "/streams/create/page": "app/streams/create/page.js",
+  "/streams/[id]/page": "app/streams/[id]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/admin/users/create/page": "app/admin/users/create/page.js",
+  "/admin/users/[id]/page": "app/admin/users/[id]/page.js",
+  "/admin/streams/page": "app/admin/streams/page.js",
+  "/admin/users/page": "app/admin/users/page.js"
+}

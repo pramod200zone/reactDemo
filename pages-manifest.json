@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/v1/clusters": "pages/api/v1/clusters.js",
+  "/_error": "pages/_error.js",
+  "/api/v1/settings": "pages/api/v1/settings.js",
+  "/api/v1/streams/[id]/[slug]": "pages/api/v1/streams/[id]/[slug].js",
+  "/api/v1/streams": "pages/api/v1/streams.js",
+  "/api/v1/streams/[id]": "pages/api/v1/streams/[id].js",
+  "/api/v1/streams/streamer/[id]/access": "pages/api/v1/streams/streamer/[id]/access.js",
+  "/api/v1/users/[id]/[slug]": "pages/api/v1/users/[id]/[slug].js",
+  "/api/v1/users/[id]": "pages/api/v1/users/[id].js",
+  "/api/v1/users": "pages/api/v1/users.js",
+  "/_document": "pages/_document.js"
+}
